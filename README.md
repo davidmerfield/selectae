@@ -21,4 +21,3 @@ By Jean Heuzet (1660 – 1728), a French humanist and professor at the Collège 
 | Why I bought | This was the first old book I bought, I was amazed I could own something from an antique century. I was also intrigued by its being a latin text book, which I thought I could use for my own learning. The publication year in France also seemed interesting – after Bastille but before the reign of terror, with Louis XVI still on the throne and having books, like this one, printed in his name |
 | Bought from | Librairie des Liserons on September 21, 2020 |
 
-
