@@ -1,5 +1,5 @@
 # Selectæ e profanis scriptoribus historiæ (1727) 
-By Jean Heuzet (1660 – 1728), a French humanist and professor at the Collège de Beauvais. *Selectæ* was intended to help someone learning Latin. I will be translating from the 1790 edition printed by L. J. Prud'homme.
+By Jean Heuzet (1660 – 1728), a French humanist and professor at the Collège de Beauvais. *Selections from the profane writers of history* was intended to help someone learning Latin. I will be translating from the 1790 edition printed by L. J. Prud'homme.
 
 ## Contents
 - [Title page](./0.0-title-page.md)
